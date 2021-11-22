@@ -91,8 +91,8 @@ author:
   bio              : "Software developer working with python, java and sql"
   location         : "India"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : 
   email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -108,7 +108,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/madhuryaj/"
+  linkedin         : "madhuryaj"
   orcid            :
   pinterest        :
   soundcloud       :
